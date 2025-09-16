@@ -53,7 +53,6 @@ namespace CardGames
 				SwinGame.DrawText ("No card played yet...", Color.RoyalBlue, 0, 20);
 			}
 			SwinGame.DrawCell (SwinGame.BitmapNamed ("Cards"),
-
 52, 155, 153);
 
 			// Draw the back of the cards... to represent the deck
